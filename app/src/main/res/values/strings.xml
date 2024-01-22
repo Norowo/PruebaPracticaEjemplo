@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Prueba Práctica</string>
+    <string name="frag1_btn_text">Calcular Área Círculo</string>
+    <string name="frag2_btn_text">Calcular Área Rectángulo</string>
+    <string name="frag1_sb_text">Área Círculo:</string>
+    <string name="frag2_sb_text">Área Rectángulo:</string>
+    <string name="frag1_et_text">Radio</string>
+    <string name="frag2_et_base_text">Base</string>
+    <string name="frag2_et_altura_text">Altura</string>
+</resources>
