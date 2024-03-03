@@ -32,7 +32,7 @@ public class CirculoFragment extends Fragment {
                              Bundle savedInstanceState) {
 
         View view =  inflater.inflate(R.layout.fragment_circulo, container, false);
-
+f
         // Instancia componentes de la interfaz
         etRadio = (EditText)view.findViewById(R.id.editTextRadio);
         btnCalculo = (Button) view.findViewById(R.id.btnCalculo);
